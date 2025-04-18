@@ -6,7 +6,7 @@
 
 <br clear="both">
 
-<h2 align="center">Hi 👋! My name is Rino Godson ... and I'm a fellow developer...</h2>
+<h2 align="center">Hi 👋! My name is Rino Godson... Howdy Hey!</h2>
 
 ###
 
@@ -54,7 +54,5 @@
 ###
 
 <br clear="both">
-
-<img src="https://raw.githubusercontent.com/rinogodson/rinogodson/output/snake.svg" alt="Snake animation" />
 
 ###
