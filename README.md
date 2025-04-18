@@ -2,11 +2,7 @@
   <img height="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmp4NTc3NWUwdXJ2bTR1ZzIxZHlzbWkwMXJ2N25hZm5mNDdjcnRsMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/5eLDrEaRGHegx2FeF2/giphy.webp"  />
 </div>
 
-###
-
-<br clear="both">
-
-<h2 align="center">Hi 👋! My name is Rino Godson... Howdy Hey!</h2>
+<h2 align="center">My name's Rino Godson... Howdy Hey!</h2>
 
 ###
 
