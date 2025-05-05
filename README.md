@@ -1,6 +1,10 @@
-<div align="left">
-  <img height="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmp4NTc3NWUwdXJ2bTR1ZzIxZHlzbWkwMXJ2N25hZm5mNDdjcnRsMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/5eLDrEaRGHegx2FeF2/giphy.webp"  />
-</div>
+```typescript
+const rino = {
+  pronouns: "he" | "him",
+  code: ["JS/TS", "Go", "Rust", "SQL", "C++", "Python"],
+  tools: ["Neovim", "Git", "Docker", "Figma", "PostMan"],
+}
+```
 
 <h2 align="center">I'm Rino Godson... Howdy Hey! Checkout my projects!</h2>
 
