@@ -1,8 +1,8 @@
 ```typescript
 const rino = {
   pronouns: "he" | "him",
-  code: ["JS/TS", "Go", "Rust", "SQL", "C++", "Python"],
-  tools: ["Neovim", "Git", "Docker", "Figma", "PostMan"],
+  code: ["JS/TS", "Go", "Rust", "SQL", "C++", "Python", GDScript""],
+  tools: ["Neovim", "Git", "Docker", "Figma", "PostMan", "Godot"],
 }
 ```
 
