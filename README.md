@@ -6,7 +6,7 @@ const rino = {
 }
 ```
 
-<h2 align="center">I'm Rino Godson... Howdy Hey! Checkout my projects!</h2>
+<h2 align="center">Howdy Hey! I'm Rino... Checkout my projects!</h2>
 
 ###
 
