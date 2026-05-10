@@ -1,4 +1,4 @@
-<img width="1500" height="101" alt="white_run_8fps (1)" src="https://github.com/user-attachments/assets/43657f8d-6053-4313-928e-808eaf56ea1c" />
+<img width="1500" height="95" alt="gray_run_8fps" src="https://github.com/user-attachments/assets/83e503b7-a4f6-4ba6-b996-f3c53b3906f7" />
 
 ```typescript
 const rino = {
