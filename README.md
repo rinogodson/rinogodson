@@ -8,7 +8,7 @@ const rino = {
 }
 ```
 
-### Hackatime Graph
+### Hackatime Activity Heatmap
 <a href="https://heatmap.shymike.dev?id=600&timezone=Asia%2FKolkata&cell_size=12&padding=4&rounding=40&labels=true&standalone=true" title="Click to view detailed data for each day!">
     <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://heatmap.shymike.dev?id=600&timezone=Asia%2FKolkata&cell_size=12&padding=4&rounding=40&labels=true&theme=dark">
