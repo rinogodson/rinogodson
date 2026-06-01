@@ -7,3 +7,11 @@ const rino = {
   tools: ["Neovim", "Git", "Docker", "Figma", "PostMan", "Godot"],
 }
 ```
+
+### Hackatime Graph
+<a href="https://heatmap.shymike.dev?id=600&timezone=Asia%2FKolkata&cell_size=12&padding=4&rounding=40&labels=true&standalone=true" title="Click to view detailed data for each day!">
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://heatmap.shymike.dev?id=600&timezone=Asia%2FKolkata&cell_size=12&padding=4&rounding=40&labels=true&theme=dark">
+        <img alt="Hackatime activity heatmap" src="https://heatmap.shymike.dev?id=600&timezone=Asia%2FKolkata&cell_size=12&padding=4&rounding=40&labels=true&theme=light">
+    </picture>
+</a>
